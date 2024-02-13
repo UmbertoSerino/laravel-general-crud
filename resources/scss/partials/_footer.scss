@@ -1,0 +1,9 @@
+   // Use StyleSheets
+   @use './variables' as *;
+   @use './mixins' as *;
+
+
+   div.footer_style a
+{
+text-decoration: none;
+}

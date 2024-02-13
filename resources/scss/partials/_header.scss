@@ -1,0 +1,22 @@
+section.logo img{
+    height: 90px;
+    margin-bottom: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+ul{
+    list-style: none;
+
+    li.active{
+        background-color: #b3e5fc;
+    }
+
+    a{
+        color: black;
+        font-weight: bold;
+    }
+}
